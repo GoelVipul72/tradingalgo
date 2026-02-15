@@ -1,0 +1,5 @@
+# Copy this file to .env and fill values. Do NOT commit real secrets.
+API_KEY=j82cohxxx1jnunop
+API_SECRET=egc93uwwq1w48q1luc5bvicdgolmzs7k
+ACCESS_TOKEN='pSijKIzMttBQF7aRgy0CwOsWvNotQWrb'
+MODE=PAPER

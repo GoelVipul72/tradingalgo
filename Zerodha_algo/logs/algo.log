@@ -1,0 +1,992 @@
+2025-12-13 11:40:04,342 ERROR main: API_KEY/ACCESS_TOKEN appear to be missing or placeholders. Fill .env or config/credentials.py and run generate_token.py to get a valid ACCESS_TOKEN.
+2025-12-13 13:23:51,062 ERROR main: API_KEY/ACCESS_TOKEN appear to be missing or placeholders. Fill .env or config/credentials.py and run generate_token.py to get a valid ACCESS_TOKEN.
+2025-12-15 05:26:01,667 ERROR main: API_KEY/ACCESS_TOKEN appear to be missing or placeholders. Fill .env or config/credentials.py and run generate_token.py to get a valid ACCESS_TOKEN.
+2025-12-15 05:27:15,461 ERROR main: API_KEY/ACCESS_TOKEN appear to be missing or placeholders. Fill .env or config/credentials.py and run generate_token.py to get a valid ACCESS_TOKEN.
+2025-12-15 05:44:28,854 INFO main: Algo Started | Mode: PAPER
+2025-12-15 09:20:24,633 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:20:24,725 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:20:24,781 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:20:24,886 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:20:24,937 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:20:25,009 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:20:25,066 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:20:25,123 INFO main: Received signal 2, shutting down...
+2025-12-15 09:20:25,122 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:20:25,127 INFO main: Shutdown requested; exiting main loop
+2025-12-15 09:21:13,933 INFO main: Algo Started | Mode: PAPER
+2025-12-15 09:21:13,981 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,042 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,105 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,157 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,211 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,267 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,317 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,374 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,429 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,480 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,529 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,583 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,636 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,687 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,735 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,806 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,861 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,907 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:14,953 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,005 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,054 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,104 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,158 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,210 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,270 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,325 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,377 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,426 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,482 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,541 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,588 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,636 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,690 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,754 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,805 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,853 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,912 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:15,965 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,025 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,075 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,127 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,184 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,242 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,292 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,350 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,414 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,463 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,518 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,570 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,622 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,669 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,721 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,778 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,831 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,888 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:16,946 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,006 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,053 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,109 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,172 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,222 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,283 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,336 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,389 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,441 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,492 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,552 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,609 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,671 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,716 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,769 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,817 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,890 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,945 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:17,994 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,048 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,094 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,142 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,202 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,254 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,311 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,360 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,411 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,465 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,518 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,569 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,617 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,676 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,731 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,793 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,840 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,889 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,944 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:18,998 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,053 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,107 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,162 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,219 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,271 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,330 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,390 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,438 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,491 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,549 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,595 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,655 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,705 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,759 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,809 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,865 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,922 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:19,981 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,034 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,088 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,145 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,202 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,259 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,310 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,355 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,406 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,465 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,523 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,575 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,632 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,680 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,729 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,776 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,828 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,884 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,938 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:20,991 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,055 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,106 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,160 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,215 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,270 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,324 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,373 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,425 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,484 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,554 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,601 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,649 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,698 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,749 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,812 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,866 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,912 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:21,974 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,064 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,122 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,173 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,229 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,285 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,345 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,407 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,466 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,514 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,566 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,617 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,678 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,733 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,788 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,838 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,898 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,949 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:22,999 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,060 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,112 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,167 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,215 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,272 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,345 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,400 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,454 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,507 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,563 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,614 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,676 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,730 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,771 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,827 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,870 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,911 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:23,990 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,045 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,118 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,196 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,239 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,297 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,356 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,410 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,457 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,518 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,574 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,623 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,671 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,728 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,791 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,836 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,881 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,927 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:24,976 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,038 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,089 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,142 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,197 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,254 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,307 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,358 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,425 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,481 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,547 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,590 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,644 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,703 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,769 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,826 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,887 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:25,936 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,004 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,064 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,119 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,171 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,224 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,298 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,357 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,424 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,488 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,547 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,613 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,651 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,714 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,786 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,828 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,877 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,931 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:26,980 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,034 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,088 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,145 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,210 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,267 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,313 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,392 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,432 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,487 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,551 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,595 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,657 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,705 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,776 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,837 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,898 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:27,948 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,028 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,093 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,190 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,236 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,295 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,421 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,472 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,522 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,588 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,651 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,712 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,770 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,840 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,883 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:28,941 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,001 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,056 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,111 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,173 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,226 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,303 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,355 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,403 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,464 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,518 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,585 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,636 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,679 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,724 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,798 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,857 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,895 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:29,955 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,015 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,069 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,117 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,163 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,208 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,272 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,355 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,400 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,446 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,506 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,549 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,605 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,657 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,701 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,742 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,827 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,884 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,948 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:30,997 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,047 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,127 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,170 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,249 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,309 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,401 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,520 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,566 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,641 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,692 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,757 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,820 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,868 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,930 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:31,989 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,030 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,077 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,131 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,302 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,377 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,505 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,549 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,603 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,652 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,707 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,755 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,842 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,918 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:32,963 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,031 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,107 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,162 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,220 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,312 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,363 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,435 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,500 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,572 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,628 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,685 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,738 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,797 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,848 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,895 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:33,955 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,006 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,057 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,106 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,157 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,210 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,261 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,310 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,365 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,435 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,493 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,554 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,633 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,686 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,746 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,838 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,903 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:34,970 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:35,036 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:35,103 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:35,154 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:35,215 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:35,277 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:35,337 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:35,389 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:35,443 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:35,512 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:38,522 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:38,581 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:38,643 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:38,714 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:38,767 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:38,812 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:38,847 INFO main: Received signal 2, shutting down...
+2025-12-15 09:21:38,868 WARNING main: Error fetching historical data for ITBEES: Insufficient permission for that call.
+2025-12-15 09:21:38,870 INFO main: Shutdown requested; exiting main loop
+2025-12-15 09:31:10,464 WARNING main: Instrument BANK NIFTY not found in NSE instruments; skipping symbol
+2025-12-15 09:31:10,466 INFO main: Algo Started | Mode: PAPER
+2025-12-15 09:31:10,512 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,557 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,602 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,654 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,705 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,755 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,809 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,853 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,896 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,941 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:10,989 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,040 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,093 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,136 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,185 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,232 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,297 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,350 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,401 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,459 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,503 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,553 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,605 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,659 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,710 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,768 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,821 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,869 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,917 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:11,970 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,016 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,070 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,120 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,164 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,214 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,281 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,324 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,376 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,429 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,485 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,539 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,582 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,632 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,683 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,738 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,795 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,845 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,894 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,949 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:12,996 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,048 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,108 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,153 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,194 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,236 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,282 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,332 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,381 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,426 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,482 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,531 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,584 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,629 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,678 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,723 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,769 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,809 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,858 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,940 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:13,990 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,036 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,080 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,124 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,168 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,211 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,256 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,297 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,338 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,386 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,438 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,491 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,539 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,605 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,654 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,702 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,745 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,789 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,831 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,885 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,938 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:14,994 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,039 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,093 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,141 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,216 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,276 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,363 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,408 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,454 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,496 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,551 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,615 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,670 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,728 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,768 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,814 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,857 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,905 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:15,951 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,010 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,056 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,101 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,145 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,188 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,236 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,282 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,336 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,378 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,420 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,460 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,500 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,544 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,586 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,627 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,669 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,719 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,764 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,803 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,859 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:16,904 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:19,692 WARNING main: Error fetching historical data for NIFTY 50: Too many requests
+2025-12-15 09:31:19,742 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:19,787 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:19,834 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:19,880 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:19,928 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:19,974 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,018 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,061 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,106 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,206 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,256 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,305 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,349 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,394 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,436 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,491 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,547 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,597 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,642 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,686 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,733 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,786 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,850 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,904 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,953 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:20,996 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,035 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,077 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,156 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,200 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,253 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,308 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,360 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,404 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,447 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,497 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,543 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,590 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,658 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,711 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,759 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,818 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,866 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,915 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:21,971 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,020 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,076 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,122 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,170 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,211 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,264 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,319 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,373 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,429 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,476 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,532 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,580 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,628 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,674 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,729 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,791 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,841 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,893 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:22,948 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,017 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,068 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,125 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,225 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,283 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,330 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,380 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,441 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,492 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,537 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,588 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,642 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,692 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,739 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,792 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,838 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,887 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,937 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:23,983 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,026 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,076 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,124 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,173 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,218 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,259 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,305 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,358 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,410 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,457 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,500 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,546 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,601 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,645 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,695 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,734 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,773 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,812 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,855 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,896 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,954 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:24,996 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,049 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,089 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,149 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,192 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,234 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,283 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,329 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,374 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,424 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,469 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,533 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,582 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,643 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,690 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,739 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,790 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,833 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,884 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,933 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:25,976 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,021 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,069 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,125 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,179 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,232 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,277 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,334 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,385 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,439 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,496 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,549 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,609 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,671 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,724 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,773 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,822 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,876 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,933 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:26,977 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,027 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,070 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,117 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,171 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,222 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,267 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,321 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,367 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,421 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,465 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,516 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,566 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,611 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,663 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,718 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,782 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,832 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,876 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,923 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:27,974 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,031 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,076 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,135 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,195 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,268 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,333 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,400 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,452 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,550 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,601 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,642 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,691 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,744 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,800 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,849 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,893 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,947 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:28,999 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,055 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,108 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,158 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,223 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,279 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,335 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,385 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,428 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,475 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,523 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,594 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,645 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,703 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,746 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,808 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,860 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,928 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:29,985 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,050 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,106 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,188 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,244 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,295 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,362 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,429 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,496 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,545 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,611 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,679 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,739 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,803 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,866 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,924 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:30,970 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,020 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,075 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,144 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,192 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,242 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,302 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,385 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,477 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,572 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,617 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,670 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,743 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,788 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,866 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:31,938 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,010 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,072 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,125 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,177 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,239 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,287 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,344 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,396 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,448 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,498 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,555 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,609 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,656 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,710 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,760 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,801 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,852 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,901 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:32,963 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,010 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,057 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,115 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,169 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,225 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,285 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,339 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,389 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,467 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,532 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,613 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,664 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,739 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,806 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,854 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,906 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:33,957 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:36,909 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:36,973 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,024 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,079 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,126 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,175 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,222 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,276 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,324 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,373 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,426 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,470 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,516 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,560 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,603 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,649 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,697 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,745 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,790 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,835 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,884 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,932 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:37,977 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,042 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,106 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,156 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,206 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,252 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,303 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,349 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,401 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,446 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,493 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,544 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,695 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,750 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,908 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:38,999 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,139 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,207 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,252 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,397 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,452 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,496 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,543 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,588 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,642 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,696 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,744 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,791 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,838 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,882 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,931 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:39,995 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,040 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,086 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,135 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,187 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,239 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,296 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,342 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,392 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,443 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,489 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,537 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,587 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,636 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,691 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,733 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,795 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,842 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,890 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,941 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:40,995 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,041 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,086 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,136 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,182 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,240 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,296 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,350 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,398 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,452 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,506 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,548 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,593 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,640 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,691 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,737 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,788 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,832 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,879 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,929 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:41,980 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,029 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,081 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,126 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,171 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,218 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,265 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,312 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,368 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,418 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,467 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,512 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,558 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,607 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,652 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,708 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,757 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,805 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,870 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,916 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:42,966 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,012 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,061 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,129 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,177 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,226 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,272 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,323 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,377 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,432 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,482 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,552 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,604 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,657 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,701 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,834 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,896 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:43,948 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,006 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,054 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,111 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,157 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,207 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,263 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,311 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,358 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,404 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,470 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,522 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,569 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,620 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,678 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,723 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,772 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,820 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,864 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,925 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:44,970 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:45,016 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:45,063 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:45,113 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:45,174 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:45,221 INFO main: Received signal 2, shutting down...
+2025-12-15 09:31:45,230 WARNING main: Error fetching historical data for NIFTY 50: Insufficient permission for that call.
+2025-12-15 09:31:45,232 INFO main: Shutdown requested; exiting main loop
+2025-12-15 10:00:41,120 WARNING main: Instrument BANK NIFTY not found in NSE instruments; skipping symbol
+2025-12-15 10:00:41,121 INFO main: Algo Started | Mode: PAPER
+2025-12-15 10:00:41,122 ERROR main: Unhandled error in main loop: name 'data' is not defined
+Traceback (most recent call last):
+  File "/mnt/c/Users/goelv/OneDrive/Desktop/practice/Zerodha_algo/main.py", line 106, in <module>
+    df = add_indicators(pd.DataFrame(data), FAST_EMA, SLOW_EMA)
+                                     ^^^^
+NameError: name 'data' is not defined
+2025-12-15 10:01:14,070 ERROR main: Unhandled error in main loop: name 'data' is not defined
+Traceback (most recent call last):
+  File "/mnt/c/Users/goelv/OneDrive/Desktop/practice/Zerodha_algo/main.py", line 106, in <module>
+    df = add_indicators(pd.DataFrame(data), FAST_EMA, SLOW_EMA)
+                                     ^^^^
+NameError: name 'data' is not defined
+2025-12-15 10:01:46,992 ERROR main: Unhandled error in main loop: name 'data' is not defined
+Traceback (most recent call last):
+  File "/mnt/c/Users/goelv/OneDrive/Desktop/practice/Zerodha_algo/main.py", line 106, in <module>
+    #     df = add_indicators(pd.DataFrame(data), FAST_EMA, SLOW_EMA)
+                                         ^^^^
+NameError: name 'data' is not defined
+2025-12-15 10:01:52,928 INFO main: Received signal 2, shutting down...
+2025-12-15 10:01:54,079 INFO main: Received signal 2, shutting down...
+2025-12-15 10:02:19,987 INFO main: Shutdown requested; exiting main loop
+2025-12-15 10:02:33,941 WARNING main: Instrument BANK NIFTY not found in NSE instruments; skipping symbol
+2025-12-15 10:02:33,943 INFO main: Algo Started | Mode: PAPER
+2025-12-15 10:12:08,950 INFO main: Received signal 2, shutting down...
+2025-12-15 10:12:22,430 INFO main: Shutdown requested; exiting main loop
+2025-12-15 10:12:37,215 WARNING main: Instrument BANK NIFTY not found in NSE instruments; skipping symbol
+2025-12-15 10:12:37,216 INFO main: Algo Started | Mode: PAPER
+2025-12-15 11:15:58,480 INFO main: Received signal 2, shutting down...
+2025-12-15 11:16:33,706 INFO main: Received signal 2, shutting down...

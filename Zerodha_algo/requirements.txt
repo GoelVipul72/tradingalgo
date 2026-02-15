@@ -1,0 +1,6 @@
+kiteconnect>=2.3.3
+pandas
+numpy
+streamlit
+python-dotenv
+pytest

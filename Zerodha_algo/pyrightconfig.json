@@ -1,0 +1,8 @@
+{
+  "extraPaths": [
+    "./",
+    "./.venv/lib/python3.12/site-packages",
+    "C:/Users/goelv/OneDrive/Desktop/practice/.venv/Lib/site-packages"
+  ],
+  "typeCheckingMode": "basic"
+}
